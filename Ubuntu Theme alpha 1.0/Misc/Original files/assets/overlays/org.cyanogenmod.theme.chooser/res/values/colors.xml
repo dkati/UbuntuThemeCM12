@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Theme chooser.apk's Colors-->
+<!--LAST REVISED ON: 03/03/2015-->
+<resources>
+    <color name="detailedview_pager_background">@*common:color/theme_black_color</color>
+    <color name="title_author_background">@*common:color/theme_black_color</color>
+    <color name="offwhite">@*common:color/theme_black_color</color>
+    <color name="author_grey">@*common:color/theme_black_color</color>
+    <!--primary colors of theme-->
+	<color name="primary">@*common:color/theme_black_color</color>
+    <color name="primary_dark">@*common:color/theme_black_color</color>
+    <color name="accent">@*common:color/theme_black_color</color>
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="primary_text_color">#ffffffff</color>
+	<!--button to apply the theme-->
+    <color name="apply_button_text_color_enabled">#ffffffff</color>
+    <color name="apply_button_text_color_disabled">#ffbbbbbb</color>
+    <color name="apply_button_progress_color">@*common:color/theme_dark_side_green_extralight_color</color>
+    <color name="apply_button_default_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="apply_button_pressed_color">@*common:color/theme_transparent_dark_side_green_color</color>
+	<!--? -->
+    <color name="designed_for_color">#ffffffff</color>
+	<!--panel on the side -->
+    <color name="drawer_item_textcolor">#ffffffff</color>
+    <color name="drawer_item_default">@*common:color/theme_black_color</color>
+    <color name="drawer_item_pressed">@*common:color/theme_transparent_dark_side_green_color</color>
+    <color name="drawer_divider_line">@*common:color/theme_dark_side_green_color</color>
+	<!--indicator circle for the location of pages in theme-->
+    <color name="default_circle_indicator_fill_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="default_circle_indicator_page_color">#ff808184</color>
+    <color name="default_circle_indicator_stroke_color">#ffffffff</color>
+</resources>

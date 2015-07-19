@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Facebook.apk's colors-->
+<!--LAST REVISED ON: 13/03/2015-->
+
+
+<resources>
+	<color name="divebar_section_background">#ff004a43</color> <!-- bar   favourites/edit-->
+    <color name="divebar_section_text">@*common:color/theme_dark_side_green_color</color>  <!-- letters Name Or phone    on search bar and favourite edit -->
+    <color name="divebar_contact_background">@*common:color/theme_black_color</color>  <!--background-->
+    <color name="divebar_contact_name_text">@*common:color/theme_dark_side_green_color</color>  <!--letters of contacts -->
+    <color name="fbui_blue_50">@*common:color/theme_black_color</color> 
+	<color name="graph_search_search_box_placeholder_text">#ff004a43</color>
+	
+	<!--new -->
+	<color name="feed_feedback_background_color">#ff3d3d3d</color>
+
+	
+	
+	
+	<color name="fbui_facebook_blue_f0">@*common:color/theme_dark_side_green_color</color>
+    
+	
+	
+    <!-- <color name="fbui_blue_50">#ffffffff</color> -->
+   <!-- <color name="graph_search_search_box_placeholder_text">#ffffffff</color> -->
+	
+	
+   <!-- <color name="fb_blue">@*common:color/theme_black_color</color> -->
+    <color name="login_font_color">@*common:color/theme_dark_side_green_color</color>
+	<!--
+	<color name="sticker_store_tab_text_color">#ff777777</color>
+	<color name="sticker_store_tab_text_color_neue">#ff777777</color>
+	<color name="pandora_album_upload_button">@*common:color/theme_black_color</color>
+	<color name="rating_histogram_bar_color">#ff777777</color>
+	<color name="ridge_widget_blue_dot">@*common:color/theme_black_color</color>
+	<color name="diode_button_link_color">#ff777777</color>
+	<color name="fbui_accent_blue">@*common:color/theme_black_color</color>
+    <color name="fbui_facebook_blue">@*common:color/theme_black_color</color>
+    
+	<color name="fbui_bluegrey_10">@*common:color/theme_black_color</color>
+	-->
+	<color name="sticker_store_tab_text_color">#ffff5555</color>
+	<color name="sticker_store_tab_text_color_neue">#ffff5555</color>
+	<color name="pandora_album_upload_button">#ffff5555</color>
+	<color name="rating_histogram_bar_color">#ffff5555</color>
+	<color name="ridge_widget_blue_dot">#ffff5555</color>
+	<color name="diode_button_link_color">#ffff5555</color>
+	
+	<color name="fbui_accent_blue">@*common:color/theme_dark_side_green_color</color>
+    <color name="fbui_facebook_blue">@*common:color/theme_dark_side_green_color</color>
+	<color name="fbui_bluegrey_10">@*common:color/theme_black_color</color>
+	
+	
+	<!-- <color name="white">#ff3d3d3d</color>  --> <!-- affects SOMEONE DID SOMETHING WITH SOMEONE AND background of settings -->
+
+	<color name="feed_feedback_background_pressed_start_color">#ffff5555</color>
+	
+	 <!-- splash screen-->
+    <color name="splash_screen_gradient_start">@*common:color/theme_dark_side_green_color</color> 
+    <color name="splash_screen_gradient_end">@*common:color/theme_dark_side_green_color</color> 
+	
+		<color name="fbui_accent_blue_20">#ff004a43</color>
+    <color name="fbui_accent_blue_10">#ff004a43</color>
+	 <color name="fb_blue">#ffff5555</color> 
+	
+	<!-- bar with like.comment.share icons -->
+
+    <color name="feed_feedback_divider_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="feed_feedback_text_color">@*common:color/theme_dark_side_green_color</color>
+	<color name="feed_feedback_action_button_bar_divider_color">@*common:color/theme_dark_side_green_color</color>
+	
+
+	
+	
+</resources>

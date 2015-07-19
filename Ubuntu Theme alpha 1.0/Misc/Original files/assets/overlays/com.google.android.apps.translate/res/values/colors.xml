@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Translate's Colors-->
+<!--LAST REVISED ON: 15/03/2015-->
+
+<resources>
+    <color name="grey">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_blue">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_blue_dark">@*common:color/theme_dark_side_green_color</color>
+	
+	<color name="primary_text">#ff9d9d9d</color>
+    <color name="gf_shadow">#cc009688</color>
+
+    <color name="card_pressed_background">@*common:color/theme_dark_side_green_color</color>
+    <color name="card_pressed_background_dark">@*common:color/theme_dark_side_green_color</color>
+
+    <color name="activity_background">@*common:color/theme_black_color</color>
+    <color name="lang_picker_background">@*common:color/theme_black_color</color>
+    <color name="offline_pin_progress_background">@*common:color/theme_black_color</color>
+    <color name="gtr_btn_candidate_normal">@*common:color/theme_black_color</color>
+
+    <color name="accent_material_light">@*common:color/theme_dark_side_green_color</color>
+	
+	<color name="icon_dark_normal">#dd009688</color>
+    <color name="icon_dark_disabled">#4c40CEC0</color>
+    <color name="icon_light_normal">#dd009688</color>
+    <color name="icon_light_disabled">#4c40CEC0</color>
+    <color name="icon_pressed_blue">#ff008678</color>
+</resources>

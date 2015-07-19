@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VirtuousTenProject>
+  <Settings>
+    <Setting Name="binaryname" Value="base.apk" />
+    <Setting Name="version" Value="4" />
+    <Setting Name="hassuccessfulimport" Value="True" />
+    <Setting Name="activeconfiguration" Value="Basic theming" />
+    <Setting Name="isdebugtarget" Value="False" />
+  </Settings>
+  <OpenDocuments>
+    <OpenDocument Path="AndroidManifest.xml" Offset="0" />
+  </OpenDocuments>
+  <MarkedLines />
+  <ScriptConfigurations>
+    <ScriptConfiguration ConfigurationName="Basic theming" Description="Viable for basic theming projects which only need to edit resources. Smali code is not generated." Type="Apk" ID="AD9325EF-AF73-46CD-B1CD-57050913CAA9" SortOrder="1">
+      <Import SyncWith="Build">
+        <VariableModule Name="TmpImportDir" Value="$(NewTmpPath())" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <UnzipModule ZipFile="$(ImportBinaryPath)" OutputDirectory="$(TmpImportDir)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <ApkToolDecompileModule FrameworkTag="ramework-res" AdditionalCommandlineFlags="$(DefaultApkToolDecompileArgs)" ApkToolType="UseCustom" CustomApkToolVersion="2.0.0.4" DataDirectory="$(TmpImportDir)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <BackupOriginalDataModule BinaryPath="$(ImportBinaryPath)" BackupDirectory="$(MiscDirectory)\Original files" IsEssential="false" IsEnabled="true" />
+        <!---->
+        <CleanupModule TargetDirectory="$(DataDirectory)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <CopyModule SourceDirectory="$(TmpImportDir)" TargetDirectory="$(DataDirectory)" IsEssential="true" IsEnabled="true" />
+        <!---->
+      </Import>
+      <Build>
+        <VariableModule Name="TmpBuildDir" Value="$(NewTmpPath())" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <CopyModule SourceDirectory="$(DataDirectory)" TargetDirectory="$(TmpBuildDir)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <ApkToolCompileModule DataDirectory="$(TmpBuildDir)" ApkToolType="UseCustom" CustomApkToolVersion="2.0.0.4" AdditionalCommandlineFlags="$(DefaultApkToolCompileArgs) " IsEssential="true" IsEnabled="true" />
+        <!---->
+        <VariableModule Name="BinaryFilePath" Value="$(BinaryDirectory)\$(BinaryName)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <ZipModule InputDirectory="$(TmpBuildDir)" OutputZipFile="$(BinaryFilePath)" CompressionLevel="0" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <SignModule TargetFile="$(BinaryFilePath)" SignType="TestKeys" CustomSignCert="" CustomSignKey="" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <ZipalignModule TargetFile="$(BinaryFilePath)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <GenerateJavaModule BinaryPath="$(BinaryFilePath)" JavaFilesDirectory="$(MiscDirectory)\JavaSrc" GenerationMethod="Procyon" IsEssential="false" IsEnabled="true" />
+        <!---->
+      </Build>
+      <Push>
+        <VariableModule Name="FileToPush" Value="$(BinaryDirectory)\$(BinaryName)" IsEssential="true" IsEnabled="true" />
+        <!---->
+        <CheckForUnbuildChangesModule IsEssential="false" IsEnabled="true" />
+        <!---->
+        <VerifyUnsecureBootImageModule IsEssential="false" IsEnabled="true" />
+        <!---->
+        <ADBRemountModule IsEssential="false" IsEnabled="true" />
+        <!---->
+        <ADBTransferModule TransferMethod="Install" FilePath="$(FileToPush)" PushPath="/data/app/" IsEssential="true" IsEnabled="true" />
+        <!---->
+      </Push>
+    </ScriptConfiguration>
+  </ScriptConfigurations>
+</VirtuousTenProject>

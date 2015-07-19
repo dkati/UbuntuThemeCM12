@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing AudioFX's Colors-->
+
+<resources>
+    <color name="primary">@*common:color/theme_black_color</color>
+    <color name="primary_dark">@*common:color/theme_black_color</color>
+    <color name="accent">#ffffffff</color>
+</resources>

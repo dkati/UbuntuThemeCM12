@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Hangout's Styles-->
+<!--LAST REVISED ON: 4:11AM EST 04/03/2015-->
+
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
