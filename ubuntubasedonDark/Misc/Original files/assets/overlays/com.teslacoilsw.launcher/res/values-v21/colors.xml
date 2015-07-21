@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Nova Launcher's Colors-->
+<!--LAST REVISED ON: 22/05/2015-->
+
+<resources>
+	<!--Nova launcher =< 3.3-->
+	    <color name="text_highlight">@*common:color/theme_transparent_dark_side_green_color</color>
+
+	<!--Nova launcher Material-->
+		<color name="appsearch_icon_dark">@android:color/white</color>
+		<color name="appsearch_icon_lightgrey">@android:color/white</color>
+	    <color name="background_floating_material_dark">@android:color/black</color>
+	    <color name="bg_dialog_dark">@android:color/black</color>
+		<color name="cardview_light_background">#cc000000</color>
+		<color name="quantum_panel_dark">@*common:color/theme_dark_side_green_color</color>
+		<color name="quantum_panel_for_mult">@*common:color/theme_dark_side_green_color</color>	
+		<color name="settings_background_idle_color">@android:color/black</color>
+</resources>

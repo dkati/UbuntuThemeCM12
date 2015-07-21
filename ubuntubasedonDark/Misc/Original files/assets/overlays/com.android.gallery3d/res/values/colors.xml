@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Gallery3d.apk's Colors-->
+
+<resources>
+    <color name="default_background">@*common:color/theme_black_color</color>
+	<color name="material_blue_grey_950">@*common:color/theme_black_color</color>
+    <color name="background_screen">@*common:color/theme_black_color</color>
+    <color name="filtershow_background">@*common:color/theme_black_color</color>
+    <color name="filtershow_categoryview_background">@*common:color/theme_black_color</color>
+
+    <color name="primary">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_dark">@*common:color/theme_dark_side_green_color</color>
+    <color name="accent">@*common:color/theme_dark_side_green_color</color>
+    <color name="fab">@*common:color/theme_black_color</color> <!-- ?? -->
+	<color name="floating_action_button_touch_tint">@*common:color/theme_dark_side_green_color</color>
+    <color name="background_toolbar">@*common:color/theme_black_color</color>
+    <color name="background_main_toolbar">@*common:color/theme_black_color</color>
+    	
+	<color name="photo_placeholder">@*common:color/theme_black_color</color>
+    <color name="cache_background">@*common:color/theme_black_color</color>
+    <color name="cache_placeholder">@*common:color/theme_black_color</color>
+    <color name="albumset_background">@*common:color/theme_black_color</color>
+    <color name="albumset_placeholder">@*common:color/theme_black_color</color>
+    
+	<!--side-->	
+	<color name="albumset_label_title">@*common:color/theme_dark_side_green_color</color>
+    <color name="albumset_label_count">#ff00695f</color>
+	<color name="albumset_label_background">#ee303030</color>
+	   
+</resources>

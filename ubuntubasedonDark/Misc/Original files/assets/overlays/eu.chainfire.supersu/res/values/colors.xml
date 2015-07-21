@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing superSU.apk's colors-->
+<!--LAST REVISED ON: 13/03/2015-->
+<resources>
+    <color name="grey">@*common:color/theme_black_color</color>
+    <color name="material_teal_500">@*common:color/theme_dark_side_green_color</color>
+    <color name="material_teal_900">@*common:color/theme_dark_side_green_color</color>
+    <color name="material_teal_950">@*common:color/theme_dark_side_green_color</color>  
+</resources>

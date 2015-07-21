@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Nova Launcher's Styles-->
+<!--LAST REVISED ON: 22/05/2015-->
+
+<resources>
+	<!--Nova launcher =< 3.3-->
+	<style name="HoloWhite" parent="@android:style/Theme.Material">
+        <item name="android:buttonStyle">@android:style/Widget.Holo.ImageButton</item>
+        <item name="android:autoCompleteTextViewStyle">@android:style/Widget.Material.AutoCompleteTextView</item>
+        <item name="android:imageButtonStyle">@android:style/Widget.Holo.ImageButton</item>
+        <item name="android:seekBarStyle">@android:style/Widget.Material.SeekBar</item>
+        <item name="android:textColorHighlight">@*common:color/theme_transparent_dark_side_green_color</item>
+        <item name="android:dropDownSpinnerStyle">@android:style/Widget.Material.Spinner</item>
+        <item name="android:dialogTheme">@android:style/Theme.Material</item>
+    </style>
+	<style name="NovaActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@*common:color/theme_dark_side_green_color</item>
+    </style>
+	<!--Nova launcher Material-->
+    <style name="Nova.Base.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@color/material_deep_teal_500</item>
+		<item name="android:textColorPrimary">@color/primary_text_color</item>
+		<item name="android:textColorSecondary">@color/material_deep_teal_200</item>
+    </style>
+</resources>

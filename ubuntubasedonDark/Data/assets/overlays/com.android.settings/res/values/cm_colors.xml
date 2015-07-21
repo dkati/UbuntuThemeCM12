@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Settings.apk's CM Specific Colors-->
+<!--LAST REVISED ON: 09/03/2015-->
+
+<resources>
+	<color name="screencolor_background">@*common:color/theme_black_color</color>
+	<color name="background_color_gray">@*common:color/theme_black_color</color>
+	<color name="background_color_white">@*common:color/theme_black_color</color>
+</resources>

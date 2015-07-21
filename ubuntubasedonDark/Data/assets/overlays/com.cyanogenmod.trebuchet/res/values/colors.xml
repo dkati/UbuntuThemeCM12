@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Trebuchet's Colors-->
+
+<resources>
+    <color name="quantum_panel_text_color">@*common:color/theme_ubuntu_purple_color</color>
+    <color name="quantum_panel_text_shadow_color">#ff777777</color>
+	<color name="settings_header_text">@*common:color/theme_ubuntu_purple_color</color>
+    <color name="settings_bg_color">@*common:color/theme_black_color</color>
+    <color name="settings_bg_header_color">@*common:color/theme_black_color</color>
+    <color name="settings_bg_selected_color">#26212121</color>
+    <color name="settings_transition_selected_color">#50212121</color>
+</resources>

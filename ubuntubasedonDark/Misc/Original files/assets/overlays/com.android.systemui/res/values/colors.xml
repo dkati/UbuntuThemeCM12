@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SystemUI.apk's Colors-->
+
+<resources>
+	<!-- Color of your notification drawer, primary:middle, secondary:top w/avatar, accent: brightness trail) -->	
+    <color name="system_primary_color">@*common:color/theme_opaque_80_percents_color</color>
+    <color name="system_secondary_color">@*common:color/theme_black_color</color>
+    <color name="system_accent_color">@*common:color/theme_dark_side_green_color</color>
+	
+	<!-- Quick Settings in Notification drawer -->	
+    <color name="qs_tile_text">@*common:color/theme_dark_side_QS_title_text_color</color>
+	<color name="qs_tile_divider">@*common:color/theme_more_transparent_dark_side_green_light_color</color>
+	<color name="qs_detail_empty">@*common:color/theme_semi_transparent_dark_side_green_color</color>
+	
+	<!-- All notification popups listed here -->
+    <color name="notification_legacy_background_color">@*common:color/theme_black_color</color>
+    <color name="notification_material_background_color">@*common:color/theme_black_color</color>
+    <color name="notification_material_background_dimmed_color">@*common:color/theme_black_color</color>
+    <color name="notification_material_background_low_priority_color">@*common:color/theme_black_color</color>
+    <color name="notification_material_background_media_default_color">@*common:color/theme_black_color</color>
+	
+	<!--Miscellaneous ROM based tweaks-->
+	<color name="status_bar_traffic_color">@*common:color/theme_dark_side_green_light_color</color>
+	<color name="gesture_overlay_background_fill_color">#80212121</color>
+	<color name="fab_color">#ff5E5D5E</color>
+	<color name="floating_action_button_icon_color">@*common:color/theme_dark_side_green_light_color</color>
+	<color name="floating_action_button_touch_tint">#d4212121</color>
+
+	<!--Navigation Bar Shortcuts Settings Colors-->
+	<color name="navring_check_tint">#4a212121</color>
+	<color name="navring_edit_fill">@*common:color/theme_dark_side_green_color</color>
+	<color name="navring_edit_tint">#4a212121</color>
+	<color name="navbutton_ripple_color">@*common:color/theme_dark_side_green_light_color</color>
+
+	<!--Navigation Bar Shortcuts Colors-->		
+	<color name="search_panel_circle_color">@*common:color/theme_dark_side_green_color</color>
+	<color name="search_panel_ripple_color">#4a212121</color>	
+</resources>

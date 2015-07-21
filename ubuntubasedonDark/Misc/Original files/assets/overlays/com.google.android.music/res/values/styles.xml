@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Play Music's Styles-->
+
+<resources>
+    <style name="PlayDrawerList">
+		<item name="android:layout_gravity">start</item>
+        <item name="android:background">@color/play_main_background</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:layout_width">320.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:cacheColorHint">@color/play_main_background</item>
+        <item name="android:divider">@null</item>
+        <item name="android:choiceMode">none</item>
+	</style>
+</resources>

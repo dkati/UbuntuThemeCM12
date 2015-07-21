@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Keep's Colors-->
+
+<resources>
+    <color name="accent_color">@*common:color/theme_dark_side_green_color</color>
+	<color name="action_bar_text_color">#ffffffff</color>
+
+    <color name="action_bar_background_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="active_action_bar_background_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="browse_secondary_status_bar_color">@*common:color/theme_dark_side_green_color</color>
+
+    <color name="sliding_drawer_background_color">@*common:color/theme_black_color</color>
+    <color name="drawer_selected_color">#b39d9d9d</color>
+    <color name="drawer_divider_color">@*common:color/theme_black_color</color>
+    <color name="sliding_drawer_text_color">#ffffffff</color>
+	
+    <color name="default_background_color">@*common:color/theme_black_color</color>
+	<color name="widget_message_text_color">#ffffffff</color>
+	<color name="image_placeholder_background">@*common:color/theme_black_color</color>
+	
+	<color name="primary_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_material_dark">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_material_light">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_dark_material_dark">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_dark_material_light">@*common:color/theme_dark_side_green_color</color>
+    <color name="primary_color_dark">@*common:color/theme_dark_side_green_color</color>
+
+    <color name="default_account_details_color">#ffffffff</color>
+    <color name="manage_accounts_text_color">#ffffffff</color>
+    <color name="add_accounts_text_color">#ffffffff</color>
+    <color name="account_text_color">#ffffffff</color>
+	<color name="hint_text_color">@*common:color/theme_dark_side_green_color</color>
+	<color name="primary_text_color">@*common:color/theme_dark_side_green_color</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing CellBroadcasterReceiver.apk's Styles-->
+
+<resources>
+    <color name="cell_broadcast_color_primary">@*common:color/theme_black_color</color>
+    <color name="cell_broadcast_color_primary_dark">@*common:color/theme_black_color</color>
+</resources>

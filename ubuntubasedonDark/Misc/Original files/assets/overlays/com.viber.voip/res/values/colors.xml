@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing viber.apk's colors-->
+<!--LAST REVISED ON: 13/03/2015-->
+<resources>
+	<color name="main_background">@*common:color/theme_black_color</color>
+    <color name="main_background_40">@*common:color/theme_black_color</color>
+    <color name="main_background_60">@*common:color/theme_black_color</color>
+	
+	<color name="name_color">@*common:color/theme_dark_side_green_color</color> <!-- color name-->
+	
+    <color name="invite_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="pref_category_bg">@*common:color/theme_dark_side_green_color</color>
+    <color name="popup_group_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="popup_name_color">@*common:color/theme_dark_side_green_color</color> 
+    <color name="popup_text_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="popup_background">@*common:color/theme_dark_side_green_color</color>
+    <color name="popup_sms_color">@*common:color/theme_dark_side_green_color</color>
+	
+	<color name="dividers">@*common:color/theme_dark_side_green_color</color>
+	
+	<color name="transparent">#00000000</color> <!-- wtffffffffffffffffffffffffffffff -->
+	
+    <color name="main_text">@*common:color/theme_dark_side_green_color</color>
+    <color name="main_text_40">@*common:color/theme_dark_side_green_color</color>
+	<color name="pressed_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="pressed_color_30">@*common:color/theme_dark_side_green_color</color>
+	
+	<color name="sub_text">@*common:color/theme_dark_side_green_color</color>
+	<color name="alt_weak_text">@*common:color/theme_dark_side_green_color</color>
+    <color name="alt_weak_text_30">@*common:color/theme_dark_side_green_color</color>
+	<color name="weak_text">@*common:color/theme_dark_side_green_color</color>
+	
+	<color name="selected">#dd4d4d4d</color>
+	
+	
+    <color name="options">@*common:color/theme_dark_side_green_color</color>
+    <color name="options_30">@*common:color/theme_dark_side_green_color</color>
+    <color name="options_95">@*common:color/theme_dark_side_green_color</color>
+	<color name="dark_background">#ee212121</color>
+    <color name="dark_background_95">#ee212121</color>
+	
+    <color name="main_weak">@*common:color/theme_dark_side_green_color</color>
+	<color name="alt_main">@*common:color/theme_dark_side_green_color</color>
+    <color name="alt_main_90">@*common:color/theme_dark_side_green_color</color>
+    <color name="alt_main_95">@*common:color/theme_dark_side_green_color</color>
+    <color name="main">@*common:color/theme_dark_side_green_color</color>
+    <color name="main_pressed_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="main_pressed_color_95">@*common:color/theme_dark_side_green_color</color>
+	
+	
+	
+    <color name="actionbar_dark_bg">@*common:color/theme_dark_side_green_color</color>
+    <color name="actionbar_bg">@*common:color/theme_dark_side_green_color</color>
+    <color name="actionbar_bg_split">@*common:color/theme_dark_side_green_color</color>
+    <color name="actionbar_select">@*common:color/theme_dark_side_green_color</color>
+    <color name="actionbar_subtitle">@*common:color/theme_dark_side_green_color</color>
+	
+	
+	 <color name="z_viber_purple">#ffff5555</color>
+	 <color name="viber_purple">#ffff5555</color>
+    <color name="purple_btn">#ffff5555</color>
+    <color name="purple_btn_dark">#ffff5555</color>
+    <color name="purple_btn_pressed">#ffff5555</color>
+	
+	
+
+	 <color name="selectable_item_pressed">#eeff5555</color>
+	
+    
+	
+</resources>

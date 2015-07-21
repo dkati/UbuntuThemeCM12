@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Settings.apk's Colors-->
+<!--LAST REVISED ON: 22/03/2015-->
+<resources>
+   
+    <!--Action Bar Colors-->
+	<color name="theme_primary">@*common:color/theme_ubuntu_purple_color</color>
+    <color name="theme_primary_dark">@*common:color/theme_ubuntu_purple_color</color>
+	<!--Title text color and toggle colors-->
+    <color name="theme_accent">@*common:color/theme_ubuntu_purple_color</color>
+	<!--Battery history chart text, overriding res/layouts/battery_history_chart.xml-->
+	<color name="text_color_black">@*common:color/theme_ubuntu_battery_history_chart_text_color</color>
+	<!--? I don't remember-->
+	<color name="text_color_white">@android:color/black</color>
+	<color name="text_color_darker_gray">#ffffffff</color>
+	<!--Layouts overwrite for Settings Background, overriding res/layouts/dashboard_category.xml-->
+    <color name="dashboard_category_background_color">@*common:color/theme_black_color</color>
+	<!-- Edits the background in settings-->
+	<color name="dashboard_background_color">@*common:color/theme_black_color</color>
+	<!--Toggle background color-->
+    <color name="switchbar_background_color">@*common:color/theme_black_color</color>
+	<color name="switch_accent_color">@*common:color/theme_ubuntu_purple_color</color>
+	<!--Data usage chart color, overriding res/layouts/data_usage_chart.xml-->
+	<color name="data_usage_fill_color">@*common:color/theme_ubuntu_purple_color</color>
+    <color name="data_usage_secondary_fill_color">@*common:color/theme_transparent_one_ubuntu_purple_color</color>
+	<color name="data_usage_label_color">#ffffffff</color>
+    <color name="data_usage_secondary_label_color">@*common:color/theme_ubuntu_purple_color</color>
+	<!--To check-->
+	<color name="background_color_darker_gray">@*common:color/theme_black_color</color>
+	<!--wifi separator-->
+    <color name="wifi_divider">@*common:color/theme_ubuntu_purple_color</color>
+	<!--Settings security-->
+	<color name="security_settings_billing_desc_color">#ffffffff</color>
+	<!--QS Tile Cards inside Select and Order Tiles and Icon Color-->
+	<color name="cardview_light_background">#00000000</color>
+	<color name="qs_tile_tint_color">@*common:color/theme_ubuntu_purple_color</color>
+</resources>

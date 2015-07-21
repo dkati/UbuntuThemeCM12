@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Search's Colors-->
+<!--LAST REVISED ON: 21/05/2015-->
+
+<resources>
+	<!--Google Now Launcher App Drawer Icon Text-->
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_text_shadow_color">@*common:color/theme_dark_side_green_color</color>
+	
+	<!--Google App Text Colors-->
+    <color name="manage_accounts_text_color">@*common:color/theme_dark_side_green_color</color>
+    <color name="search_plate_text_color">@android:color/white</color>
+    <color name="secondary_text_normal">@*common:color/theme_dark_side_green_color</color>
+    <color name="suggest_text_normal">@android:color/white</color>
+    <color name="suggest_text_disabled">#80777777</color>
+    <color name="suggest_text_inverse">@*common:color/theme_dark_side_green_color</color>
+    <color name="selected_text_corpus_bar">#ff9d9d9d</color>
+    <color name="qp_text_b1">#ff9d9d9d</color>
+    <color name="qp_text_b2">#ffff6000</color>
+    <color name="qp_text_b3">@*common:color/theme_dark_side_green_color</color>
+    <color name="qp_text_w1">@android:color/white</color>
+    <color name="qp_drawer_text">@android:color/white</color>
+    <color name="qp_drawer_text_disabled">@*common:color/theme_dark_side_green_color</color>
+    <color name="qp_drawer_icon_disabled">#16777777</color>
+
+	<!--Google App Background Colors and App Specific Tweaks-->
+    <color name="action_card_separator_grey">@android:color/black</color>
+    <color name="action_card_medium_grey">#ff1f1f1f</color>
+    <color name="action_card_dark_grey">@*common:color/theme_dark_side_green_color</color>
+    <color name="action_card_light_blue">#ff1f1f1f</color>
+    <color name="activity_background">@android:color/black</color>
+    <color name="audio_progress_bar_color">#ff1f1f1f</color>
+    <color name="card_bg">@*common:color/theme_black_color</color>
+	<color name="card_bg_training">@*common:color/theme_black_color</color>
+	<color name="card_background">@android:color/black</color>
+	<color name="configuration_list_background">@android:color/black</color>
+    <color name="edit_event_text_highlight">#ff1f1f1f</color>
+    <color name="ic_orb_listening">#ff1f1f1f</color>
+    <color name="ic_orb_tts">@*common:color/theme_black_color</color>
+    <color name="lighthouse_app_choice_lowlight">#1affffff</color>
+	<color name="now_space_background">@android:color/black</color>
+	<color name="nowspace_header_bg_color">@android:color/black</color>
+    <color name="outline_color">@android:color/black</color>
+    <color name="qp_blue">@*common:color/theme_dark_side_green_color</color>
+    <color name="qp_blue_dark">@*common:color/theme_black_color</color>
+    <color name="qp_status_none">#ff1f1f1f</color>
+    <color name="qp_card_separator">@android:color/black</color>
+    <color name="qp_drawer_background">@android:color/black</color>
+    <color name="qp_drawer_icon">#ffffffff</color>
+    <color name="qp_drawer_selected">@*common:color/theme_black_color</color>
+    <color name="search_plate_suggestion_divider_background">@android:color/black</color>
+    <color name="setup_wizard_color_accent_light">@*common:color/theme_black_color</color>
+    <color name="spinner_pressed_state_color">#ff1f1f1f</color>
+    <color name="suggestion_divider_background">@android:color/black</color>
+	<color name="vs_level_guide">@android:color/black</color>
+    <color name="white">@android:color/black</color>
+    <color name="widget_card_background">@android:color/black</color>
+    <color name="widget_text_panel">@android:color/black</color>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="side_black">#aa009688</color> 
+	
+	
+	
+	
+
+		 
+	<color name="chat_heads_row_separator">@*common:color/theme_dark_side_green_color</color>
+	<color name="orca_image_placeholder_color">#ff525252</color>
+	<color name="orca_reg_profile_pic_placeholder_color">#ff525252</color>
+	<color name="orca_pinned_groups_nux_background">#ff525252</color>
+	<color name="feed_feedback_background_pressed_start_color">#ff525252</color>
+	<color name="orca_neue_primary">#ff313131</color>
+	<color name="orca_white_pressed">#ff525252</color>
+	
+	
+	<color name="rtc_minimize_pressed">#ff525252</color>
+	<color name="video_trimming_film_strip_selected_bar_color">#ff525252</color>
+	<color name="orca_reg_light_blue_button_text_color_enabled">#ff525252</color>
+	<color name="orca_neue_thread_list_group_header_promo_background">#ff525252</color>
+	<color name="orca_neue_thread_list_survey_header_background">#ff525252</color>
+	<color name="payment_action_blue">#ff525252</color>
+	<color name="orca_neue_qp_banner_background">#ff525252</color>
+	<color name="QPInterstitialPrimaryButtonTextColor">#ff525252</color>
+	
+	
+	  <color name="facebookholo_background_dark">#ff525252</color>
+    <color name="facebookholo_background_light">#ff525252</color>
+	<color name="fbui_tab_background">#ff525252</color>
+	  
+   
+	  <color name="typeahead_header_background">#ff525252</color>
+	   <color name="typeahead_item_background">#ff525252</color>
+	    <color name="divebar_background">#ff525252</color>
+		<color name="background_selected_gray">#ff525252</color>
+		  <color name="confirmation_background">#ff525252</color>
+		  <color name="facepile_count_background_color">#ff525252</color>
+		      <color name="generic_pressed_state_background_color">#ff525252</color>
+<color name="voip_section_background_normal">#ff525252</color>
+    <color name="voip_section_background_unavailable">#ff525252</color>
+	  <color name="upsell_interstitial_grey_background">#ff525252</color>
+	      <color name="focused_background_color_dark">#ff525252</color>
+    <color name="focused_background_color_light">#ff525252</color>
+	  <color name="orca_neue_item_background_focused">#ff525252</color>
+    <color name="orca_neue_item_background_pressed">#ff525252</color>
+    <color name="orca_neue_item_background_focused_pressed">#ff00ff00</color>
+	<color name="composer_background">#ff525252</color>
+	  <color name="media_tray_background_color">#ff525252</color>
+	  <color name="sticker_keyboard_background_color">#ff525252</color>
+	      <color name="sticker_keyboard_background_color_neue">#ff525252</color>
+    <color name="emoji_attachment_popup_background_color">#ff525252</color>
+    <color name="emoji_attachment_popup_background_color_neue">#ff525252</color>
+	
+<color name="default_contacts_section_background">#ff525252</color>
+    <color name="default_contacts_contact_background">#ff525252</color>
+        <color name="divebar_section_background">#ff525252</color>
+   <color name="divebar_section_text">#ff525252</color>
+    <color name="divebar_contact_background">#ff525252</color>
+    <color name="divebar_contact_background_pressed">#ff525252</color>
+  <color name="chat_heads_popup_background">#ff525252</color>
+    <color name="chat_thread_view_message_background">#ff525252</color>
+    <color name="chat_thread_composer_background">#ff525252</color>
+    <color name="nux_learn_more_background">#ff525252</color>
+	 <color name="nearby_learn_more_background">#ff525252</color>
+	  <color name="admin_message_background">#ff525252</color>
+    <color name="thread_view_background">#ff525252</color>
+	 <color name="favorites_dragndrop_background">#ff525252</color>
+
+	    <color name="message_list_view_background">#ff525252</color>
+		 <color name="default_banner_background">#ff525252</color>   
+		 <color name="map_dialog_background">#ff525252</color>
+		  <color name="neue_mainactivity_background">#ff525252</color>
+	
+	
+	 
+	 <color name="white">#ff525252</color>
+    <color name="facebook_blue_twenty_percent_opacity">#ff525252</color>
+	
+	<color name="orca_convo_bubble_normal">#ffcc3300</color>
+    <color name="orca_convo_bubble_selected">#ffcc3300</color>
+    <color name="orca_convo_bubble_me_normal">#ff004b44</color>
+    <color name="orca_convo_bubble_me_selected">#ff004b44</color>
+	
+	
+	
+</resources>
