@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Gallery3d.apk's Styles-->
-
-<resources>
-	<style name="Theme.GalleryBase" parent="@android:style/Theme.Material" />
-    <style name="Theme.Gallery" parent="@style/Theme.GalleryBase">
-		<item name="android:statusBarColor">@color/primary</item>		
-	</style>
-</resources>

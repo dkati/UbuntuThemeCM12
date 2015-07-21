@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<bitmap
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:src="@drawable/ic_settings_security_ds"
-    android:tint="@*common:color/theme_dark_side_green_color"/>

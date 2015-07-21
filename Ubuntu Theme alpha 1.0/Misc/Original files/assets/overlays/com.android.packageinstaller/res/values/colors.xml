@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--You are editing PackageInstaller.apk's Colors-->
-
-<resources>
-	<!--Fail/Succeed Colors, check Drawables-->
-	<color name="success">@*common:color/theme_dark_side_green_color</color>
-	<color name="fail">#ffff0000</color>
-</resources>
