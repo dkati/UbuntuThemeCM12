@@ -12,4 +12,4 @@ todo:
 -QS icons are not right colored
 -main font color should be darker
 -all drawables-hdpi not edited
-------------------------------------------------
+-------------------------------------------------
